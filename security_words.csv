@@ -1,92 +1,96 @@
-ï»¿vulnerability,è„†å¼±æ€§
-authentication,èªè¨¼
-authorization,èªå¯
-access control,ã‚¢ã‚¯ã‚»ã‚¹åˆ¶å¾¡
-mandatory (access control) ,å¼·åˆ¶
-discretionary (access control) ,ä»»æ„
-responsible disclosure,è²¬ä»»ã‚ã‚‹é–‹ç¤º
-confidentiality,æ©Ÿå¯†æ€§
-Integrity,å®Œå…¨æ€§
-Availability,å¯ç”¨æ€§
-Least privilege,æœ€å°æ¨©é™
-isolation,éš”é›¢
-Fail-safe defaults,ãƒ•ã‚¡ã‚¤ãƒ«ã‚»ãƒ¼ãƒ•ã®åŸå‰‡
-Open design,ã‚ªãƒ¼ãƒ—ãƒ³ãƒ‡ã‚¶ã‚¤ãƒ³
-End-to-end security,æ‹ ç‚¹é–“ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£
-Defense in depth,ç¸¦æ·±é˜²å¾¡
-Security by design ,ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£ãƒ»ãƒã‚¤ãƒ»ãƒ‡ã‚¶ã‚¤ãƒ³
-Usable security ,ãƒ¦ãƒ¼ã‚¶ãƒ–ãƒ«ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£
-Prevention,é˜²å¾¡
-detection,æ¤œçŸ¥
-deterrence,æŠ‘æ­¢
-fail-safe,ãƒ•ã‚§ã‚¤ãƒ«ã‚»ãƒ¼ãƒ•
-deny-by-default,åŸå‰‡ç¦æ­¢
-multiple layers of defenses,å¤šå±¤é˜²å¾¡
-Input validation,å…¥åŠ›æ¤œæŸ»
-data sanitization,ç„¡å®³åŒ–
-Buffer overflows,ãƒãƒƒãƒ•ã‚¡ãƒ¼ã‚ªãƒ¼ãƒãƒ¼ãƒ•ãƒ­ãƒ¼
-Integer errors,æ•´æ•°å€¤ã‚¨ãƒ©ãƒ¼
-SQL injection,SQLã‚¤ãƒ³ã‚¸ã‚§ã‚¯ã‚·ãƒ§ãƒ³
-XSS vulnerability ,XSSè„†å¼±æ€§
-Race conditions,ç«¶åˆçŠ¶æ…‹
-mitigating,ç·©å’Œ
-Fuzzing,ãƒ•ã‚¡ã‚¸ãƒ³ã‚°
-Static analysis,é™çš„è§£æ
-dynamic analysis,å‹•çš„è§£æ
-underground economy,åœ°ä¸‹çµŒæ¸ˆ
-digital espionage,ãƒ‡ã‚¸ã‚¿ãƒ«ã‚¹ãƒ‘ã‚¤æ´»å‹•
-cyberwarfare,ã‚µã‚¤ãƒãƒ¼æˆ¦äº‰
-insider threats,å†…éƒ¨çŠ¯è¡Œ
-hacktivism,ãƒã‚¯ãƒ†ã‚£ãƒ“ã‚ºãƒ 
-advanced persistent threats,APTï¼Œæ¨™çš„å‹æ”»æ’ƒ
-Social engineering,ã‚½ãƒ¼ã‚·ãƒ£ãƒ«ã‚¨ãƒ³ã‚¸ãƒ‹ã‚¢ãƒªãƒ³ã‚°
-phishing,ãƒ•ã‚£ãƒƒã‚·ãƒ³ã‚°
-privacy,ãƒ—ãƒ©ã‚¤ãƒã‚·
-anonymity,åŒ¿åæ€§
-steganography,ã‚¹ãƒ†ã‚¬ãƒã‚°ãƒ©ãƒ•ã‚£
-denial of service,DoSï¼Œã‚µãƒ¼ãƒ“ã‚¹æ‹’å¦
-spoofing,ãªã‚Šã™ã¾ã—
-sniffing,ç›—è´
-man-in-the-middle,ä¸­é–“è€…æ”»æ’ƒ
-traffic analysis,é€šä¿¡è§£æ
-intrusion detection,ä¾µå…¥æ¤œçŸ¥
-honeypots,ãƒãƒ‹ãƒ¼ãƒãƒƒãƒˆ
-network censorship,ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯æ¤œé–²
-Cipher,æš—å·
-Caesar cipher,ã‚·ãƒ¼ã‚¶ãƒ¼æš—å·
-pseudo-random generator,æ“¬ä¼¼ä¹±æ•°ç”Ÿæˆå™¨
-stream cipher,ã‚¹ãƒˆãƒªãƒ¼ãƒ æš—å·
-block ciphers,ãƒ–ãƒ­ãƒƒã‚¯æš—å·
-pseudo-random function,æ“¬ä¼¼ä¹±æ•°ç”Ÿæˆå™¨
-hash function,ãƒãƒƒã‚·ãƒ¥é–¢æ•°
-collision resistance,è¡çªå›°é›£æ€§
-message authentication code,ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸èªè¨¼ã‚³ãƒ¼ãƒ‰
-key derivations function,éµç”Ÿæˆé–¢æ•°
-Symmetric key cryptography,å…±é€šéµæš—å·
-Perfect secrecy,å®Œå…¨ç§˜åŒ¿æ€§
-authenticated encryption,èªè¨¼ä»˜ãæš—å·
-Message integrity,ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸å®Œå…¨æ€§
-Trapdoor permutation,è½ã—æˆ¸ä»˜ãç½®æ›
-Digital signature,ãƒ‡ã‚£ã‚¸ã‚¿ãƒ«ç½²å
-certificate,è¨¼æ˜æ›¸
-Authenticated key exchange protocol,èªè¨¼ä»˜ãéµäº¤æ›
-challenge-response,ãƒãƒ£ãƒ¬ãƒ³ã‚¸ãƒ»ãƒ¬ã‚¹ãƒãƒ³ã‚¹
-zero-knowledge protocols,ã‚¼ãƒ­çŸ¥è­˜è¨¼æ˜ãƒ—ãƒ­ãƒˆã‚³ãƒ«
-oblivious transfer,ç´›å¤±é€šä¿¡
-indistinguishability,è­˜åˆ¥å›°é›£æ€§
-unforgeability,å½é€ ä¸å¯èƒ½æ€§
-collision-resistance,è¡çªå›°é›£æ€§
-chosen-message attack,é¸æŠæ–‡æ”»æ’ƒ
-birthday attacks,èª•ç”Ÿæ—¥æ”»æ’ƒ
-side channel attack,ã‚µã‚¤ãƒ‰ãƒãƒ£ãƒãƒ«æ”»æ’ƒ
-fault injection attack,æ•…éšœæ³¨å…¥æ”»æ’ƒ
-Quantum cryptography,é‡å­æš—å·
-cryptanalysis,æš—å·è§£æ
-cryptographic algorithm,æš—å·ã‚¢ãƒ«ã‚´ãƒªã‚ºãƒ 
-cryptology,æš—å·å­¦
-key exchange protocol,éµäº¤æ›ãƒ—ãƒ­ãƒˆã‚³ãƒ«
-cryptographic protocol,æš—å·ãƒ—ãƒ­ãƒˆã‚³ãƒ«
-root of trust,ä¿¡é ¼ã®èµ·ç‚¹
-security breach,ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£ä¾µå®³
-biometric authentication,ç”Ÿä½“èªè¨¼
-facial recognition,é¡”èªè¨¼
+vulnerability	Æã«
+authentication	”FØ
+authorization	”F‰Â
+access control	ƒAƒNƒZƒX§Œä
+mandatory (access control) 	‹­§
+discretionary (access control) 	”CˆÓ
+responsible disclosure	Ó”C‚ ‚éŠJ¦
+confidentiality	‹@–§«
+Integrity	Š®‘S«
+Availability	‰Â—p«
+Least privilege	Å¬Œ ŒÀ
+isolation	Šu—£
+Fail-safe defaults	ƒtƒ@ƒCƒ‹ƒZ[ƒt‚ÌŒ´‘¥
+Open design	ƒI[ƒvƒ“ƒfƒUƒCƒ“
+End-to-end security	‹’“_ŠÔƒZƒLƒ…ƒŠƒeƒB
+Defense in depth	c[–hŒä
+Security by design 	ƒZƒLƒ…ƒŠƒeƒBEƒoƒCEƒfƒUƒCƒ“
+Usable security 	ƒ†[ƒUƒuƒ‹ƒZƒLƒ…ƒŠƒeƒB
+Prevention	–hŒä
+detection	ŒŸ’m
+deterrence	—}~
+fail-safe	ƒtƒFƒCƒ‹ƒZ[ƒt
+deny-by-default	Œ´‘¥‹Ö~
+multiple layers of defenses	‘½‘w–hŒä
+Input validation	“ü—ÍŒŸ¸
+data sanitization	–³ŠQ‰»
+Buffer overflows	ƒoƒbƒtƒ@[ƒI[ƒo[ƒtƒ[
+Integer errors	®”’lƒGƒ‰[
+SQL injection	SQLƒCƒ“ƒWƒFƒNƒVƒ‡ƒ“
+XSS vulnerability 	XSSÆã«
+Race conditions	‹£‡ó‘Ô
+mitigating	ŠÉ˜a
+Fuzzing	ƒtƒ@ƒWƒ“ƒO
+Static analysis	Ã“I‰ğÍ
+dynamic analysis	“®“I‰ğÍ
+underground economy	’n‰ºŒoÏ
+digital espionage	ƒfƒWƒ^ƒ‹ƒXƒpƒCŠˆ“®
+cyberwarfare	ƒTƒCƒo[í‘ˆ
+insider threats	“à•””Æs
+hacktivism	ƒnƒNƒeƒBƒrƒYƒ€
+advanced persistent threats	APTC•W“IŒ^UŒ‚
+Social engineering	ƒ\[ƒVƒƒƒ‹ƒGƒ“ƒWƒjƒAƒŠƒ“ƒO
+phishing	ƒtƒBƒbƒVƒ“ƒO
+privacy	ƒvƒ‰ƒCƒoƒV
+anonymity	“½–¼«
+steganography	ƒXƒeƒKƒmƒOƒ‰ƒtƒB
+denial of service	DoSCƒT[ƒrƒX‹‘”Û
+spoofing	‚È‚è‚·‚Ü‚µ
+sniffing	“’®
+man-in-the-middle	’†ŠÔÒUŒ‚
+traffic analysis	’ÊM‰ğÍ
+intrusion detection	N“üŒŸ’m
+honeypots	ƒnƒj[ƒ|ƒbƒg
+network censorship	ƒlƒbƒgƒ[ƒNŒŸ‰{
+Cipher	ˆÃ†
+Caesar cipher	ƒV[ƒU[ˆÃ†
+pseudo-random generator	‹[——”¶¬Ší
+stream cipher	ƒXƒgƒŠ[ƒ€ˆÃ†
+block ciphers	ƒuƒƒbƒNˆÃ†
+pseudo-random function	‹[——”¶¬Ší
+hash function	ƒnƒbƒVƒ…ŠÖ”
+collision resistance	Õ“Ë¢“ï«
+message authentication code	ƒƒbƒZ[ƒW”FØƒR[ƒh
+key derivations function	Œ®¶¬ŠÖ”
+Symmetric key cryptography	‹¤’ÊŒ®ˆÃ†
+Perfect secrecy	Š®‘S”é“½«
+authenticated encryption	”FØ•t‚«ˆÃ†
+Message integrity	ƒƒbƒZ[ƒWŠ®‘S«
+Trapdoor permutation	—‚µŒË•t‚«’uŠ·
+Digital signature	ƒfƒBƒWƒ^ƒ‹–¼
+certificate	Ø–¾‘
+Authenticated key exchange protocol	”FØ•t‚«Œ®ŒğŠ·
+challenge-response	ƒ`ƒƒƒŒƒ“ƒWEƒŒƒXƒ|ƒ“ƒX
+zero-knowledge protocols	ƒ[ƒ’m¯Ø–¾ƒvƒƒgƒRƒ‹
+oblivious transfer	•´¸’ÊM
+indistinguishability	¯•Ê¢“ï«
+unforgeability	‹U‘¢•s‰Â”\«
+collision-resistance	Õ“Ë¢“ï«
+chosen-message attack	‘I‘ğ•¶UŒ‚
+birthday attacks	’a¶“úUŒ‚
+side channel attack	ƒTƒCƒhƒ`ƒƒƒlƒ‹UŒ‚
+fault injection attack	ŒÌá’“üUŒ‚
+Quantum cryptography	—ÊqˆÃ†
+cryptanalysis	ˆÃ†‰ğÍ
+cryptographic algorithm	ˆÃ†ƒAƒ‹ƒSƒŠƒYƒ€
+cryptology	ˆÃ†Šw
+key exchange protocol	Œ®ŒğŠ·ƒvƒƒgƒRƒ‹
+cryptographic protocol	ˆÃ†ƒvƒƒgƒRƒ‹
+root of trust	M—Š‚Ì‹N“_
+security breach	ƒZƒLƒ…ƒŠƒeƒBNŠQ
+biometric authentication	¶‘Ì”FØ
+facial recognition	Šç”FØ
+identification	¯•Ê
+decipher	•œ†
+encipher	ˆÃ†‰»
+pseudo random number generator	‹[——”¶¬Ší
