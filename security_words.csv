@@ -67,7 +67,7 @@ perfect secrecy,完全秘匿性
 authenticated encryption,認証付き暗号
 message integrity,メッセージ完全性
 Trapdoor permutation,落し戸付き置換
-igital signature,ディジタル署名
+digital signature,ディジタル署名
 certificate,証明書
 authenticated key exchange protocol,認証付き鍵交換
 challenge-response,チャレンジ・レスポンス
