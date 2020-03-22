@@ -107,4 +107,4 @@ state practice,国家実行
 indicator of compromise,不正侵害のインディケーター
 TTP(Tactics、Technique、Procedure),TTP（戦術、技術、手法）
 accounting,アカウンティング（課金やユーザーのアクセス情報の収集、AAA(Authentication、Authorization、Accounting)）
-Federated identity,ID連携、連合アイデンティティ
+Federated identity,連合アイデンティティ（「ID連携」の別名）
